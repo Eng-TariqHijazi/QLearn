@@ -367,6 +367,9 @@ header .sign-up {
   .content-cover h1 {
     font-size: 35px;
   }
+  .w100{
+    width: 100%;
+  }
   }
 @media (max-width: 388px) {
   header .content-cover a {
@@ -388,5 +391,11 @@ header .sign-up {
   }
   .content-cover h1 {
     font-size: 24px;
+  }
+  .footer-links{
+    width: 100%;
+  }
+  .footer-content{
+    text-align: center;
   }
 }
