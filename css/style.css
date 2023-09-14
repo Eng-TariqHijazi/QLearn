@@ -371,6 +371,13 @@ header .sign-up {
     width: 100%;
   }
   }
+  @media (max-width:588px) {
+    .footer-links{
+      width: 100%;
+      align-items: center;
+    }
+    
+  }
 @media (max-width: 388px) {
   header .content-cover a {
     font-size: 13px;
